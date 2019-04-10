@@ -18,3 +18,6 @@
 		"wines":[    	{      "name":"Dom Perignon"   },    
 						{      "name":"Veuve Clicquot"    },    
 						{      "name":"Taittinger"    }  ]}
+{  "name":"Alsace",  "cepages":"Mostly Pinot Gris, Riesling & Gewurztraminer", "review":"Sweet, it's well worth a try!",  "coordinates":[    7.146606,  48.261255  ],
+		"wines":[    	{      "name":"No idea..."   },    
+						{      "name":"Too sweet for me :)"    }  ]}
