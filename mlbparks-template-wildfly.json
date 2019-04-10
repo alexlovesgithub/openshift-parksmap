@@ -25,12 +25,12 @@
       {
          "description": "Git source URI for application",
          "name": "GIT_URI",
-         "value": "https://github.com/nealef/openshift3mlbparks.git"
+         "value": "https://github.com/alexlovesgithub/openshift-parksmap.git"
       },
       {
          "description": "The name of the project where image streams are stored in the registry.",
          "name": "PROJECT_NAME",
-         "value": "sinenomine"
+         "value": "OpenShift Parksmap"
       },
       {
          "description": "Git branch/tag reference",
