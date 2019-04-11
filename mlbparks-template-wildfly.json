@@ -5,7 +5,7 @@
       "name": "mlbparks-wildfly",
       "annotations": {
          "iconClass": "icon-jboss",
-         "description": "Application template for MLB Parks application on WildFly & MongoDB built using STI"
+         "description": "Application template for a French wine map application on WildFly & MongoDB built using STI"
       }
    },
    "labels": {
@@ -16,7 +16,7 @@
       {
          "description": "The name for the application.",
          "name": "APPLICATION_NAME",
-         "value": "mlbparks"
+         "value": "winemap"
       },
       {
          "description": "Custom hostname for service routes.  Leave blank for default hostname, e.g.: <application-name>.<project>.<default-domain-suffix>",
@@ -30,7 +30,7 @@
       {
          "description": "The name of the project where image streams are stored in the registry.",
          "name": "PROJECT_NAME",
-         "value": "OpenShift Parksmap"
+         "value": "French wines interactive map"
       },
       {
          "description": "Git branch/tag reference",
