@@ -30,7 +30,7 @@
       {
          "description": "The name of the project where image streams are stored in the registry.",
          "name": "PROJECT_NAME",
-         "value": "French wines interactive map"
+         "value": "frenchwines"
       },
       {
          "description": "Git branch/tag reference",
