@@ -30,7 +30,7 @@ public class MLBParkResource {
 		thePark.setPosition(dataValue.get("coordinates"));
 		//thePark.setId(dataValue.get("_id").toString());
 		thePark.setReview(dataValue.get("review"));
-		//thePark.setLeague(dataValue.get("league"));
+		thePark.setVariety(dataValue.get("variety"));
 		//thePark.setPayroll(dataValue.get("payroll"));
 
 		return thePark;
