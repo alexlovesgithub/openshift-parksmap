@@ -5,8 +5,8 @@ public class MLBPark {
 	private Object position;
 	private Object id;
 	private Object ballpark;
-	private Object payroll;
-	private Object league;
+	//private Object payroll;
+	//private Object league;
 
 	public Object getName() {
 		return name;
@@ -40,7 +40,7 @@ public class MLBPark {
 		this.ballpark = ballpark;
 	}
 
-	public Object getPayroll() {
+	/*public Object getPayroll() {
 		return payroll;
 	}
 
@@ -54,6 +54,6 @@ public class MLBPark {
 
 	public void setLeague(Object league) {
 		this.league = league;
-	}
+	}*/
 
 }
