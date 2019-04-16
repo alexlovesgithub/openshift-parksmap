@@ -3,7 +3,7 @@ package org.openshift.mlbparks.domain;
 public class MLBPark {
 	private Object name;
 	private Object position;
-	private Object id;
+	//private Object id;
 	private Object ballpark;
 	//private Object payroll;
 	//private Object league;
@@ -24,13 +24,13 @@ public class MLBPark {
 		this.position = position;
 	}
 
-	public Object getId() {
+	/*public Object getId() {
 		return id;
 	}
 
 	public void setId(Object id) {
 		this.id = id;
-	}
+	}*/
 
 	public Object getBallpark() {
 		return ballpark;
