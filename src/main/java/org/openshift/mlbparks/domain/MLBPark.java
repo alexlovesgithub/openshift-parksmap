@@ -5,8 +5,8 @@ public class MLBPark {
 	private Object position;
 	//private Object id;
 	private Object review;
-	//private Object payroll;
-	//private Object league;
+	private Object variety;
+	// private Object appellation;
 
 	public Object getName() {
 		return name;
@@ -40,6 +40,14 @@ public class MLBPark {
 		this.review = review;
 	}
 
+	public Object getVariety() {
+		return variety;
+	}
+
+	public void setVariety(Object variety) {
+		this.variety = variety;
+	}
+	
 	/* public Object getPayroll() {
 		return payroll;
 	}
