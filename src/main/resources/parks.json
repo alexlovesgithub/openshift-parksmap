@@ -1,23 +1,6 @@
-{  "name":"Languedoc-Roussillon", "variety":"Mostly Syrah, Grenache & Carignan",  "review":"Excellent !",  "coordinates":[    3.823242,    43.715534  ],
-		"wines":[    	{      "name":"Pic Saint-Loup"   },    
-						{      "name":"Saint Chinian"    },    
-						{      "name":"Terrasses du Larzac"    }  ]}
-{  "name":"Bordeaux", "variety":"Mostly Cabernet Sauvignon & Merlot", "review":"Also very good!",  "coordinates":[    -0.472412,    44.793530  ],
-		"wines":[    	{      "name":"Saint Emilion"   },    
-						{      "name":"Pomerol"    },    
-						{      "name":"Margaux"    }  ]}
-{  "name":"Vallee du Rhone", "variety":"Mostly Syrah & Grenache", "review":"The best one!",  "coordinates":[    4.840679,    44.056628  ],
-		"wines":[    	{      "name":"Chateauneuf du Pape"   },    
-						{      "name":"Cotes du Rhone"    },    
-						{      "name":"Lirac"    }  ]}
-{  "name":"Champagne", "variety":"Sparkling wine", "review":"Hum... some bubbles, so nice!",  "coordinates":[    4.290161,    49.063069  ],
-		"wines":[    	{      "name":"Dom Perignon"   },    
-						{      "name":"Veuve Clicquot"    },    
-						{      "name":"Taittinger"    }  ]}
-{  "name":"Beaujolais", "variety":"Mostly Gamay", "review":"Beaujolais Nouveau is a marketing trap... don't try it!",  "coordinates":[    4.290161,    49.063069  ],
-		"wines":[    	{      "name":"Dom Perignon"   },    
-						{      "name":"Veuve Clicquot"    },    
-						{      "name":"Taittinger"    }  ]}
-{  "name":"Alsace", "variety":"Mostly Pinot Gris, Riesling & Gewurztraminer", "review":"Sweet, it's well worth a try!",  "coordinates":[    7.146606,  48.261255  ],
-		"wines":[    	{      "name":"No idea..."   },    
-						{      "name":"Too sweet for me :)"    }  ]}
+{  "name":"Languedoc-Roussillon", "variety":"Mostly Syrah, Grenache & Carignan",  "review":"Excellent !",  "coordinates":[    3.823242,    43.715534  ]}
+{  "name":"Bordeaux", "variety":"Mostly Cabernet Sauvignon & Merlot", "review":"Also very good!",  "coordinates":[    -0.472412,    44.793530  ]}
+{  "name":"Vallee du Rhone", "variety":"Mostly Syrah & Grenache", "review":"The best one!",  "coordinates":[    4.840679,    44.056628  ]}
+{  "name":"Champagne", "variety":"Sparkling wine", "review":"Hum... some bubbles, so nice!",  "coordinates":[    4.290161,    49.063069  ]}
+{  "name":"Beaujolais", "variety":"Mostly Gamay", "review":"Beaujolais Nouveau is a marketing trap... don't try it!",  "coordinates":[    4.290161,    49.063069  ]}
+{  "name":"Alsace", "variety":"Mostly Pinot Gris, Riesling & Gewurztraminer", "review":"Sweet, it's well worth a try!",  "coordinates":[    7.146606,  48.261255  ]}
