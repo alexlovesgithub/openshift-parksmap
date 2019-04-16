@@ -64,10 +64,10 @@
 			var markerArray = new Array(data.length)
 			for (var i = 0; i < data.length; i++){
 				park = data[i];
-				var popupInformation = "<b>" + park.name + "</b></br>";
+				var popupInformation = "<b>" + park.name + "</b></br></br>";
+				popupInformation += "<b>Variety: </b>" + park.variety + "</br>";
 				popupInformation += "<b>Review: </b>" + park.review + "</br>";
-				//popupInformation += "<b>Grapes: </b>" + park.payroll.toCurrencyString() + "</br>";
-				//popupInformation += "<b>Appellation: </b>" + Pic Siant Loup + "</br>";
+				//popupInformation += "<b>Appellation: </b>" + Pic Saint Loup + "</br>";
 				markerArray[i] = L.marker([park.position[1], park.position[0]]).bindPopup(popupInformation);			
 			}
 			
