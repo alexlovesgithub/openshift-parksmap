@@ -19,7 +19,8 @@ If your environment (Online 3, Dedicated, OSE) has EAP, use this:
 `````
 $ oc create -f https://raw.githubusercontent.com/alexlovesgithub/openshift3mlbparks/master/mlbparks-template-eap.json
 $ oc new-app mlbparks-eap
-````
+`````
+
 ## Install template as cluster-admin for everyone to use
 
 Load the template with cluster-admin user:
@@ -28,4 +29,7 @@ Load the template with cluster-admin user:
 # oc create -f https://raw.githubusercontent.com/alexlovesgithub/openshift3mlbparks/master/mlbparks-template-wildfly.json -n openshift
 ````
 
-Test
+This application is a fork from Neale's one (https://github.com/nealef/openshift3mlbparks), which is a fork from 
+Grant Shipley repository (https://github.com/gshipley/openshift3mlbparks).
+
+Feel free to contact me if you'd like to talk about changes I've made.
