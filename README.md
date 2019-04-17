@@ -21,6 +21,7 @@ $ oc create -f https://raw.githubusercontent.com/alexlovesgithub/openshift3mlbpa
 $ oc new-app mlbparks-eap
 `````
 
+
 ## Install template as cluster-admin for everyone to use
 
 Load the template with cluster-admin user:
@@ -28,6 +29,7 @@ Load the template with cluster-admin user:
 ````
 # oc create -f https://raw.githubusercontent.com/alexlovesgithub/openshift3mlbparks/master/mlbparks-template-wildfly.json -n openshift
 ````
+
 
 This application is a fork from Neale's one (https://github.com/nealef/openshift3mlbparks), which is a fork from 
 Grant Shipley repository (https://github.com/gshipley/openshift3mlbparks).
