@@ -35,3 +35,5 @@ This application is a fork from Neale's one (https://github.com/nealef/openshift
 Grant Shipley repository (https://github.com/gshipley/openshift3mlbparks).
 
 Feel free to contact me if you'd like to talk about changes I've made.
+
+*** Edit test ***
